@@ -1,0 +1,36 @@
+*   commit 9b6f36f63eece12f1c1c1e35dac41248b56331f8 (HEAD -> main, origin/main)
+|\  Merge: 10a6d88 7e2a1c5
+| | Author: Antorof1 <antorof@proton.me>
+| | Date:   Wed Feb 28 12:03:59 2024 +0100
+| | 
+| |     confict resolved
+| | 
+| * commit 7e2a1c55bb6ba1f0d6b735dc808ed28e81888649 (origin/staging, staging, dev)
+| | Author: Antorof1 <antorof@proton.me>
+| | Date:   Wed Feb 28 11:57:40 2024 +0100
+| | 
+| |     staging branch hello message
+| | 
+| * commit 76df41828b4959ba71aac25ac33b830be69c7cd6 (origin/dev)
+| | Author: Antorof1 <antorof@proton.me>
+| | Date:   Wed Feb 28 11:54:15 2024 +0100
+| | 
+| |     dev branch new message
+| | 
+* | commit 10a6d88a85e1103a7f1c74cfe57c5ccc3c78aedc
+|/  Author: Antorof1 <antorof@proton.me>
+|   Date:   Wed Feb 28 11:52:47 2024 +0100
+|   
+|       Added greetings with dev branch
+| 
+* commit b46e07d7f81b04bc8b483ad44fc1227534da79dd
+| Author: Antorof1 <antorof@proton.me>
+| Date:   Wed Feb 28 11:50:48 2024 +0100
+| 
+|     Added one more exclamation mark
+| 
+* commit cb3374bdcf6964204ca34bf81d4f0c4717ba697d
+  Author: Antorof1 <antorof@proton.me>
+  Date:   Wed Feb 28 11:45:37 2024 +0100
+  
+      My 'first' git commit
